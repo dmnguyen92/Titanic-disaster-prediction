@@ -1,2 +1,2 @@
 # Titanic-disaster-prediction
-A practice problem for beginners in Data Science
+This is my first practice problem in Data Science after completing the [a](google.com) 
